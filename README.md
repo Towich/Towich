@@ -12,7 +12,8 @@
 - **[ToDoApp](https://github.com/Towich/ToDoApp)** - simple task manager
 - **[PerfumeStore](https://github.com/Towich/PerfumeStore)** - storage manager for individual entrepreneurs
 - **[MTS_music](https://github.com/Towich/MTS_music)** - application for sharing music in real time with friends and other peoples
-- **[The Bull's Pit](https://github.com/arinstotle/FoodOrderApp)** - client module for chain of restaurants
+- **[The Bull's Pit](https://github.com/arinstotle/FoodOrderApp)** - client module for chain of restaurants **[IN PROGRESS]**
+- **[ExploreMarks](https://github.com/Towich/ExploreMarks)** - sharing geo marks for travelers **[IN PROGRESS]**
 
 ### 🎮 Unity
 - **[CS Card](https://github.com/Towich/CS_Card)** - multiplayer Android stategy game with elements Counter-Strike and Heartstone 
