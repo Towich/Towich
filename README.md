@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi! I'm Nikita and I'm interested in Android, some Backend and Unity. </br>
-🏫 Currently studying in RTU MIREA in Moscow </br>
+🏫 Currently studying at RTU MIREA in Moscow </br>
 🎯 Dreaming to be a team/tech lead
 
 
@@ -22,12 +22,5 @@
 ### 🖥️ Backend
 - **[Restaurant-backend](https://github.com/Towich/restaurant-backend)** - backend for Android app **[The Bull's Pit](https://github.com/arinstotle/FoodOrderApp)**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Towich&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Towich&theme=prussian&hide_border=true)<br/>
----
-
-
-[![](https://visitcount.itsvg.in/api?id=Towich&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
