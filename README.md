@@ -3,17 +3,14 @@
 🏫 Currently studying at RTU MIREA in Moscow </br>
 🎯 Dreaming to be a team/tech lead
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
 # 🏔️ My Projects:
 ### 📱 Android
 - **[ToDoApp](https://github.com/Towich/ToDoApp)** - simple task manager
 - **[PerfumeStore](https://github.com/Towich/PerfumeStore)** - storage manager for individual entrepreneurs
 - **[MTS_music](https://github.com/Towich/MTS_music)** - application for sharing music in real time with friends and other peoples
 - **[The Bull's Pit](https://github.com/arinstotle/FoodOrderApp)** - client module for chain of restaurants **[IN PROGRESS]**
-- **[ExploreMarks](https://github.com/Towich/ExploreMarks)** - sharing geo marks for travelers **[IN PROGRESS]**
+- **[ExploreMarks](https://github.com/Towich/ExploreMarks)** - sharing geo marks for travelers
+- **[VK clocks](https://github.com/Towich/VK-clocks)** - custom view "analog clock"
 
 ### 🎮 Unity
 - **[CS Card](https://github.com/Towich/CS_Card)** - multiplayer Android stategy game with elements Counter-Strike and Heartstone 
