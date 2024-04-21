@@ -20,6 +20,7 @@
 
 - <img src="https://github.com/Towich/KinopoiskDev/assets/100920758/3a98984a-3e1b-49d8-9aca-723475296189" width="24"> **[MobileCinema](https://github.com/Towich/MobileCinema)** - film finder with API Kinopoisk
 
+- <img src="https://github.com/Towich/Towich/assets/100920758/d2947204-b0bc-43c1-9684-a2c42d081775" width="24"> **[CosmicIntrigue](https://github.com/Towich/CosmicIntrigue)** - "Among Us" in real life via google maps **[IN PROGRESS]**
 
 
 
